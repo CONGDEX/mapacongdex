@@ -4,6 +4,27 @@
     {
       "type": "Feature",
       "properties": {
+        "nombre_entidad": "Colectivos en Lucha Extremadura",
+        "categoria": "SOCIALES",
+        "direccion": "Calle Cimbrón, 1, Mérida, 06800, Badajoz",
+        "localidad": "Mérida",
+        "pagina_contacto": "https://colectivosenluchaextremadura.wordpress.com/",
+        "tematica": "Red de Apoyo Mutuo de colectivos defensores del territorio en Extremadura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3420,
+          38.9173
+        ]
+      }
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
         "nombre_entidad": "Fundación ASPACE Cáceres",
         "categoria": "SOCIALES",
         "direccion": "Antonio Floriano Cumbreño, 1, 10005, Cáceres",
